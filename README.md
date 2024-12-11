@@ -1,6 +1,6 @@
 # PEM_With_DDPG_Regulation
 
-This paper focuses on maintaining the oxygen excess ratio within the Proton Exchange Membrane (PEM) Fuel Cells using Deep Deterministic Policy Gradient (DDPG) algorithms to fine-tune PID controllers that actually help correct the oxyge excess ratio to its desired value.
+This paper focuses on maintaining the oxygen excess ratio within the Proton Exchange Membrane (PEM) Fuel Cells using Deep Deterministic Policy Gradient (DDPG) algorithms to fine-tune PID controllers that actually help correct the oxygen excess ratio to its desired value.
 
 The papers I used for this paper are as follows...
 
