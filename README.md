@@ -14,4 +14,4 @@ ment learning for PEMFC air supply system, Energy Reports, 1267-1279,
 
 
 
-Please check these papers out, as they are helpful in understanding the problems and development regarding electrical cards in the Reinforcement Learning (RL) space. 
+Please check these papers out, as they are helpful in understanding the problems and development regarding electric cars in the Reinforcement Learning (RL) space. 
